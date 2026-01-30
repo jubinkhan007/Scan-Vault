@@ -161,14 +161,7 @@ No additional configuration required. The scanner uses the native VisionKit fram
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - [simplest_document_scanner](https://pub.dev/packages/simplest_document_scanner) for the scanning SDK
 - [GetX](https://pub.dev/packages/get) for state management
-- Flutter team for the amazing framework
